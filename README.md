@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohit Badgujar
+- 👋 Hi, I’m Rohit
 - 👀 I’m a Student
 - 🌱 I’m currently learning Java on [mooc.fi](https://java-programming.mooc.fi/)
 - 📫 you can reach me on @savitrh (twitter) or on @udarchis (discord)
