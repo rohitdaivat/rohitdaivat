@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Rohit
+Hi there! This is Rohit (read as /ˈroː.hɪt̪/)
 - 👀 I’m a Student
-- 🌱 I’m currently learning Java on [mooc.fi](https://java-programming.mooc.fi/)
-- 📫 you can reach me on @[savitrh](https://x.com/savitrh) (twitter) or on @udarchis (discord)
+- 📫 you can reach me on @[savitrh](https://x.com/savitrh) (twitter) or on @yajurmaya (discord)
 - 😄 Pronouns: He/Him/His
 
 
