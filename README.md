@@ -1,4 +1,4 @@
-Hi there! This is Rohit (read as /ˈroː.hɪt̪/)
+Hi there! This is Rohit 
 - 👀 I’m a Student
 - 📫 you can reach me on @[savitrh](https://x.com/savitrh) (twitter) or on @yajurmaya (discord)
 - 😄 Pronouns: He/Him/His
