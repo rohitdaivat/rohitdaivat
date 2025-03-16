@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Hi there! This is Rohit (read it as /ɾoː.ɦi.t̪ɐ/) Badagujar
+- 🌱 I’m currently learning Java & Python
+- 📫 You can reach me: [@savitrh](https://x.com/savitrh) (twitter/𝕏)
 <!--
 **rohitdaivat/rohitdaivat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
